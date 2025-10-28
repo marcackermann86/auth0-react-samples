@@ -8,7 +8,7 @@ const Hero = () => (
     <h1 className="mb-4">CyberInsights Training App</h1>
 
     <p className="lead">
-      This is a sample application built with <a href="https://reactjs.org">React.js</a>
+      This is a sample application built with <a href="https://reactjs.org">React.js</a> 
       that demonstrates an authentication flow for a single page app using Auth0
     </p>
   </div>
