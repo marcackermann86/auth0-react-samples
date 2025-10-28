@@ -22,14 +22,16 @@
     background-color: #1f2023;
     color: #dadada;
   }
-  header {
-    background-color: #1f2023;
-    color: #dadada;
-  }
-  footer {
-    background-color: #1f2023;
-    color: #dadada;
-  }
+}
+
+header {
+  background-color: #1f2023;
+  color: #dadada;
+}
+
+footer {
+  background-color: #1f2023;
+  color: #dadada;
 }
 
 .spinner {
