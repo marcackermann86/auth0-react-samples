@@ -27,7 +27,17 @@ body {
     background-color: #1f2023;
     color: #dadada;
   }
+  .App-header {
+    background-color: #dadada;
+    color: #1f2023;
+  }
 }
+
+.App-header {
+  background-color: #dadada;
+  color: #1f2023;
+}
+
 .spinner {
   position: absolute;
   display: flex;
